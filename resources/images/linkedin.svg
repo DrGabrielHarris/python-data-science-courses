@@ -1,47 +1,65 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 112.196 112.196" style="enable-background:new 0 0 112.196 112.196;" xml:space="preserve">
-<g>
-	<circle style="fill:#007AB9;" cx="56.098" cy="56.097" r="56.098"/>
-	<g>
-		<path style="fill:#F1F2F2;" d="M89.616,60.611v23.128H76.207V62.161c0-5.418-1.936-9.118-6.791-9.118
-			c-3.705,0-5.906,2.491-6.878,4.903c-0.353,0.862-0.444,2.059-0.444,3.268v22.524H48.684c0,0,0.18-36.546,0-40.329h13.411v5.715
-			c-0.027,0.045-0.065,0.089-0.089,0.132h0.089v-0.132c1.782-2.742,4.96-6.662,12.085-6.662
-			C83.002,42.462,89.616,48.226,89.616,60.611L89.616,60.611z M34.656,23.969c-4.587,0-7.588,3.011-7.588,6.967
-			c0,3.872,2.914,6.97,7.412,6.97h0.087c4.677,0,7.585-3.098,7.585-6.97C42.063,26.98,39.244,23.969,34.656,23.969L34.656,23.969z
-			 M27.865,83.739H41.27V43.409H27.865V83.739z"/>
-	</g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-</svg>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 112.196 112.196"
+   style="enable-background:new 0 0 112.196 112.196;"
+   xml:space="preserve"
+   sodipodi:docname="linkedin.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:export-filename="C:\Users\mazen.alhrishy\Documents\Git\python-data-science-courses\resources\images\linkedin-128.png"
+   inkscape:export-xdpi="110.05754"
+   inkscape:export-ydpi="110.05754"><metadata
+     id="metadata45"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs43" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     id="namedview41"
+     showgrid="false"
+     inkscape:zoom="2.1034618"
+     inkscape:cx="-14.975313"
+     inkscape:cy="56.098"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Capa_1" /><path
+     style="fill:#000000;stroke-width:0.47540677"
+     d="M 47.445596,111.28005 C 30.41507,108.60937 15.267763,97.862618 6.8358888,82.468172 -1.5543942,67.149657 -1.8001216,46.893527 6.210909,30.948981 11.812223,19.800551 22.112482,10.058382 33.708538,4.9412302 45.935859,-0.45448833 60.078466,-1.1713495 73.18207,2.9403945 c 4.856746,1.5239852 12.022457,5.1542858 15.861619,8.0358295 23.712351,17.797686 29.866301,49.772005 14.395801,74.79688 -3.40827,5.513169 -11.172334,13.393987 -16.761553,17.013606 -11.805767,7.64548 -25.598273,10.6314 -39.232341,8.49334 z M 41.265308,63.501291 V 43.045748 l -6.774546,0.131904 -6.774547,0.131905 -0.123956,20.32364 -0.123956,20.32364 h 6.898503 6.898502 z m 20.917898,8.195703 c 0,-11.771689 0.0426,-12.34387 1.069666,-14.370177 1.297347,-2.559524 3.527594,-3.954481 6.322396,-3.954481 2.424347,0 4.162586,1.025 5.315176,3.134238 0.735635,1.346214 0.860377,3.175132 0.988652,14.495428 l 0.146796,12.954835 h 6.865453 6.865454 V 70.668846 c 0,-8.027928 -0.211598,-14.285251 -0.534538,-15.807275 -1.679074,-7.913517 -7.064183,-12.416992 -14.916182,-12.474145 -3.240605,-0.02359 -4.206223,0.170125 -6.52714,1.309404 -1.49814,0.735398 -3.370054,2.120999 -4.159809,3.079112 l -1.435924,1.742025 V 45.79491 43.071854 H 55.289808 48.39641 v 20.442491 20.442492 h 6.893398 6.893398 z M 37.271234,37.618202 c 0.810207,-0.16234 2.177531,-1.021946 3.038496,-1.910237 2.969745,-3.063999 2.341747,-8.52269 -1.234795,-10.733115 -2.020269,-1.248595 -6.003076,-1.369561 -8.304231,-0.252216 -5.762075,2.797821 -4.66482,11.649653 1.61675,13.042728 1.09145,0.242053 2.305355,0.374375 2.697566,0.29405 0.392211,-0.08033 1.376007,-0.278871 2.186214,-0.44121 z"
+     id="path47"
+     inkscape:connector-curvature="0" /><g
+     id="g10" /><g
+     id="g12" /><g
+     id="g14" /><g
+     id="g16" /><g
+     id="g18" /><g
+     id="g20" /><g
+     id="g22" /><g
+     id="g24" /><g
+     id="g26" /><g
+     id="g28" /><g
+     id="g30" /><g
+     id="g32" /><g
+     id="g34" /><g
+     id="g36" /><g
+     id="g38" /></svg>
