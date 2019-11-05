@@ -9,7 +9,7 @@ Ensure that you choose the 3.x version and *NOT* the 2.x version
 ## Contents
 
 ### Python
-[1-An introduction to Python](/python/1-An_Introduction_to_Python.ipynb)
+[1-An introduction to Python](/python/1-An_Introduction_to_Python.ipynb)<br>
 [2-Variables and Data Types](/python/2-Variables_and_Data_Types.ipynb)
 [3-Control Structures](/python/3-Control_Structures.ipynb)
 [4-Functions and Packages](/python/4-Functions_and_Packages.ipynb)
