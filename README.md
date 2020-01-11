@@ -3,7 +3,7 @@
 
 ## Dependencies
 
-[Anaconda 3.7](https://www.anaconda.com/distribution/)
+[Anaconda 3.7](https://www.anaconda.com/distribution/)<br>
 Ensure that you choose the 3.x version and *NOT* the 2.x version
 
 ## Contents
